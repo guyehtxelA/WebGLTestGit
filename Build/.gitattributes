@@ -1,1 +1,2 @@
 FYPWebGL.data filter=lfs diff=lfs merge=lfs -text
+FYPWebGL.wasm filter=lfs diff=lfs merge=lfs -text
